@@ -7,7 +7,7 @@
 
 
 
-<img src="C:\Users\faton\Downloads\kalilinux.svg" height="100">
+<img src="kalilinux.svg" height="100">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FatonHaxhiu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500">
 <!--
 **FatonHaxhiu/FatonHaxhiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
