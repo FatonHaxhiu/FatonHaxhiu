@@ -4,6 +4,15 @@
   <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300"/>
 </div>
 
+  
+<p>•🔭 I’m currently working on a research paper about Blockchain Security on IoT Devices. </p> 
+<p>•🌱 I’m currently learning about Ethical Hacking using HTB, as well as about GRC. </p>
+<p>•👯 I’m looking to collaborate on anything related to security, Software Engineering, and Computer Science in general.</p> 
+<p>•💬 Ask me about anything.</p>
+<p>•⚡ Fun fact: I am serious.</p>
+
+
+
 
 
 
@@ -16,12 +25,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
