@@ -6,7 +6,7 @@
 
   
 <p>•🔭 I’m currently working on a research paper about Blockchain Security on IoT Devices. </p> 
-<p>•🌱 I’m currently learning about Ethical Hacking using HTB, as well as about GRC. </p>
+<p>•🌱 I’m currently learning about Ethical Hacking using HTB, as well about GRC. </p>
 <p>•👯 I’m looking to collaborate on anything related to security, Software Engineering, and Computer Science in general.</p> 
 <p>•💬 Ask me about anything.</p>
 <p>•⚡ Fun fact: I am serious.</p>
