@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **on a research paper about Blockchain Security on IoT Devices.**
 
-- 🌱 I’m currently learning **Ethical Hacking using HTB, as well about GRC.**
+- 🌱 I’m currently learning **about Ethical Hacking using HTB, as well about GRC.**
 
-- 👯 I’m looking to collaborate **on anything related to security, Software Engineering, and Computer Science in general.**
+- 👯 I’m looking to collaborate **on anything related to Cybersecurity, Software Engineering, and Computer Science in general.**
 
 - 💬 Ask me about **anything.**
 
