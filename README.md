@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate **on anything related to Cybersecurity, Software Engineering, and Computer Science in general.**
 
 - 💬 Ask me about **anything.**
+- <p>See my Resume < href="C:\Users\faton\OneDrive\Desktop\Documentsss\Resume-Faton Haxhiu.pdf">Open</a>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
