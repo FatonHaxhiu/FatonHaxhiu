@@ -14,7 +14,9 @@
 - 👯 I’m looking to collaborate **on anything related to Cybersecurity, Software Engineering, and Computer Science in general.**
 
 - 💬 Ask me about **anything.**
-
+-<a href="Desktop\Documentsss\Resume-Faton Haxhiu.pdf"" download="Resume">
+  <img src="Desktop\Documentsss\Resume-Faton Haxhiu.pdf" alt="Resume">
+</a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fatonhaxhiu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fatonhaxhiu00" height="30" width="40" /></a>
