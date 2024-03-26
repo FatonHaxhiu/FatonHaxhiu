@@ -4,14 +4,14 @@
 </div>
 
   
-<h1 align="center">Hi 👋, I'm Faton</h1>
-<h3 align="center">Passionate about Cybersecurity</h3>
+<h1 align="center">Hi There👋, My name is Faton</h1>
+<h3 align="center">All About Cybersecurity</h3>
 
-- 🔭 I’m currently working on **on a research paper about Blockchain Security on IoT Devices.**
+- 🔭 I’m currently working on my master **Cyber-Fellow Program at NYU.**
 
-- 🌱 I’m currently learning **about Ethical Hacking using HTB, as well about GRC.**
+- 🌱 I’m currently focused/learning using **Hack the Box, School projects, and events such as CFTs.**
 
-- 👯 I’m looking to collaborate **on anything related to Cybersecurity, Software Engineering, and Computer Science in general.**
+- 👯 I’m looking to collaborate **on anything related to Cybersecurity and Computer Science.**
 
 - 💬 Ask me about **anything.**
 
