@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate **on anything related to Cybersecurity and Computer Science.**
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **anything!**
 
 
 <h3 align="left">Connect with me:</h3>
