@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300"/>
 </div>   
           
-<h1 align="center">Welcome, My name is Faton</h1>  
+<h1 align="center">Welcome, My name is Faton</h1>   
 <h3 align="center">All About Cybersecurity</h3>  
  
 - 🔭 I’m currently working on my master **Cyber-Fellow Program at NYU.**    
