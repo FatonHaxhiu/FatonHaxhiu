@@ -7,7 +7,7 @@
 <h3 align="center">All About Cybersecurity</h3>      
       
 - 🔭 I’m currently working on my master **Cyber-Fellow Program at NYU.**    
-    
+ 
 - 🌱 I’m currently focused/learning using **Hack the Box, School projects, and events such as CFTs.**   
      
 - 👯 I’m looking to collaborate **on anything related to Cybersecurity and Computer Science.**      
