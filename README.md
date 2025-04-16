@@ -8,7 +8,7 @@
   <h3 align="center" style="color: #34495e; font-style: italic;">Cybersecurity Enthusiast | Cyber-Fellow at NYU</h3>
  
   <p style="font-size: 1.1em; text-align: center; color: #333; line-height: 1.6;"> 
-    I'm passionate about cybersecurity and continually exploring new technologies and methodologies. Currently, I'm engaged in my master-level <strong>Cyber-Fellow Program at NYU</strong>, sharpening my skills on Hack the Box, working on academic projects, and competing in CFTs.
+    I'm passionate about cybersecurity and continually exploring new technologies and methodologies. Currently, I'm engaged in my master-level <strong>Cyber-Fellow Program at NYU</strong>, sharpening my skills on Hack the Box, working on academic projects, and competing in CFTs. 
   </p>
 
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
