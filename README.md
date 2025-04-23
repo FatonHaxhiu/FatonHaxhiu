@@ -3,7 +3,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300" alt="Cybersecurity in action" style="border-radius: 10px;" />
   </div>
-
+ 
   <h1 align="center" style="color: #2c3e50; font-family: 'Arial', sans-serif;">Hello, I'm Faton 👋</h1>
   <h3 align="center" style="color: #34495e; font-style: italic;">Cybersecurity Enthusiast | Cyber-Fellow at NYU</h3>  
  
