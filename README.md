@@ -71,3 +71,11 @@
   </div>
 
 </div>
+
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #ccc;" />
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatonhaxhiu&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatonhaxhiu&layout=compact&theme=light&hide_border=true" alt="Top Languages" width="300" />
+</p>
