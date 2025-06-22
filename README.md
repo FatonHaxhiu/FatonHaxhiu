@@ -23,7 +23,7 @@
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; font-size: 0.95em;">
     <div style="flex: 1; min-width: 180px; margin: 8px;">
       <h4 style="color: #1e88e5; font-weight: 700; font-size: 1.2em; margin: 5px 0;"><strong>🎓 Education</strong></h4>
-      <p style="color: #2d2d2d; font-weight: 400;">Cyber-Fellow Program, NYU Tandon School of Engineering</p>
+      <p style="color: #2d2d2d; font-weight: 400;">Cyber-Fellow Program, NYU Tandon School of Engineering Graduate</p>
     </div>
     <div style="flex: 1; min-width: 180px; margin: 8px;">
       <h4 style="color: #1e88e5; font-weight: 700; font-size: 1.2em; margin: 5px 0;"><strong>🔐 Focus Areas</strong></h4>
