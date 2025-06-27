@@ -7,7 +7,7 @@
   <h1 align="center" style="color: #1a2634; font-weight: 800; font-size: 2.4em; margin: 10px 0;"> 
     Hi there, I'm Faton 👋 
   </h1>
-
+ 
   <h3 align="center" style="color: #1e88e5; font-weight: 700; font-size: 1.5em; margin: 5px 0;">
     Cybersecurity Enthusiast | Cyber-Fellow at NYU
   </h3>
