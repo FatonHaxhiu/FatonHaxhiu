@@ -3,7 +3,7 @@
    <div align="center">
     <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300" alt="Cybersecurity in action" style="border-radius: 12px;" />
   </div>
- 
+  
   <h1 align="center" style="color: #1a2634; font-weight: 800; font-size: 2.4em; margin: 10px 0;"> 
     Hi there, I'm Faton 👋  
   </h1>
