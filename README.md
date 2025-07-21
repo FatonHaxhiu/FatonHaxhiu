@@ -9,7 +9,7 @@
   </h1>
  
   <h3 align="center" style="color: #1e88e5; font-weight: 700; font-size: 1.5em; margin: 5px 0;">
-    Cybersecurity Enthusiast | Cyber-Fellow at NYU
+    Cybersecurity Enthusiast | Cyber-Fellow at NYU  
   </h3>
 
   <p style="font-size: 1.05em; text-align: center; color: #2d2d2d; font-weight: 400; line-height: 1.7; margin: 10px 0;"> 
