@@ -71,7 +71,7 @@
   </div>
 </div>
 
-<hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
+<hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />  
 
 ### 📊 GitHub Stats
 <p align="center" style="font-family: Inter, sans-serif; color: #1a2634;">
