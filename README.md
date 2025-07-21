@@ -35,7 +35,7 @@
     </div>
     <div style="flex: 1; min-width: 180px; margin: 8px;">
       <h4 style="color: #1e88e5; font-weight: 700; font-size: 1.2em; margin: 5px 0;"><strong>💬 Let's Talk</strong></h4>
-      <p style="color: #2d2d2d; font-weight: 400;">Cybersecurity, Cloud Security, Programming, or Career Insights</p>
+      <p style="color: #2d2d2d; font-weight: 400;">Cybersecurity, Cloud Security, Programming, or Career Insights</p>   
     </div>
   </div>
 
