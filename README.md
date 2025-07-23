@@ -38,15 +38,6 @@
       <p style="color: #2d2d2d; font-weight: 400;">Cybersecurity, Cloud Security, Programming, or Career Insights</p>   
     </div>
   </div>
- <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
-
-<h3 style="text-align: center; color: #1a2634; font-weight: 700; font-size: 1.4em; margin: 10px 0;">🛡️ Immersive Labs</h3>
-<p style="text-align: center; font-size: 1.05em; color: #2d2d2d;">
-  Explore my hands-on cybersecurity labs and progress on 
-  <a href="https://cybermillion.immersivelabs.online/profile/fh2300/settings" target="_blank" style="color: #1e88e5; font-weight: 700; text-decoration: none;">
-    Immersive Labs
-  </a>.
-</p>
 
   <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
 
@@ -79,6 +70,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="36" height="36" style="margin: 5px;">
   </div>
 </div>
+
+<hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
+
+<div align="center" style="margin: 20px 0;"> <img src="https://img.shields.io/badge/Immersive%20Labs-CPD_Completed-blue?style=for-the-badge&logo=google-chrome" alt="Immersive Labs CPD Badge" /> </div> <p align="center" style="font-size: 1.05em; color: #2d2d2d;"> I’ve completed a range of hands-on labs through <strong>Immersive Labs</strong> across offensive security, malware analysis, and threat detection. Here's my verified CPD/CPE Certificate covering activity from <strong>July 2022 to July 2025</strong>. </p> <p align="center"> <a href="./immersive-labs-cpd.pdf" target="_blank" style="text-decoration: none; font-weight: bold;"> 📥 View CPD Certificate (PDF) </a> </p>
 
 <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />  
 
