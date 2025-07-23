@@ -38,6 +38,15 @@
       <p style="color: #2d2d2d; font-weight: 400;">Cybersecurity, Cloud Security, Programming, or Career Insights</p>   
     </div>
   </div>
+ <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
+
+<h3 style="text-align: center; color: #1a2634; font-weight: 700; font-size: 1.4em; margin: 10px 0;">🛡️ Immersive Labs</h3>
+<p style="text-align: center; font-size: 1.05em; color: #2d2d2d;">
+  Explore my hands-on cybersecurity labs and progress on 
+  <a href="https://cybermillion.immersivelabs.online/profile/fh2300/settings" target="_blank" style="color: #1e88e5; font-weight: 700; text-decoration: none;">
+    Immersive Labs
+  </a>.
+</p>
 
   <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
 
