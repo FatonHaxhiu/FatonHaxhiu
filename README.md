@@ -14,7 +14,7 @@
 
   <p style="font-size: 1.05em; text-align: center; color: #2d2d2d; font-weight: 400; line-height: 1.7; margin: 10px 0;"> 
     I'm a passionate cybersecurity practitioner with expertise in <strong>offensive security</strong>, cloud infrastructure, and secure development. 
-    As a <strong>Cyber-Fellow at NYU</strong>, I tackle CTF challenges, contribute to security projects, and hone my ethical hacking skills. 
+    As a <strong>Cyber-Fellow at NYU</strong>, I tackle CTF challenges, contribute to security projects, and hone my ethical hacking skills.  
     Committed to continuous learning and collaborative innovation.
   </p>
 
