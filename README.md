@@ -1,7 +1,7 @@
 <div style="background-color: #e6f3ff; padding: 25px; border-radius: 12px; margin: 15px auto; max-width: 800px; box-shadow: 0 3px 10px rgba(0,0,0,0.1); font-family: Inter, sans-serif; color: #2d2d2d; line-height: 1.7;">
 
    <div align="center">
-    <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300" alt="Cybersecurity in action" style="border-radius: 12px;" />
+    <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="300" alt="Cybersecurity in action" style="border-radius: 12px;" /> 
   </div> 
   
   <h1 align="center" style="color: #1a2634; font-weight: 800; font-size: 2.4em; margin: 10px 0;">     
