@@ -73,7 +73,7 @@
 
 <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
 
-<div align="center" style="margin: 20px 0;"> <img src="https://img.shields.io/badge/Immersive%20Labs-CPD_Completed-blue?style=for-the-badge&logo=google-chrome" alt="Immersive Labs CPD Badge" /> </div> <p align="center" style="font-size: 1.05em; color: #2d2d2d;"> I’ve completed a range of hands-on labs through <strong>Immersive Labs</strong> across offensive security, malware analysis, and threat detection. Here's my verified CPD/CPE Certificate covering activity from <strong>July 2022 to July 2025</strong>. </p> <p align="center"> <a href="./immersive-labs-cpd.pdf" target="_blank" style="text-decoration: none; font-weight: bold;"> 📥 View CPD Certificate (PDF) </a> </p>
+<div align="center" style="margin: 20px 0;"> <img src="https://img.shields.io/badge/Immersive%20Labs-CPD_Completed-blue?style=for-the-badge&logo=google-chrome" alt="Immersive Labs CPD Badge" /> </div> <p align="center" style="font-size: 1.05em; color: #2d2d2d;"> I’ve completed a range of hands-on labs through <strong>Immersive Labs</strong> across offensive security, malware analysis, and threat detection. Here's my verified CPD/CPE Certificate covering activity from <strong>July 2022 to July 2025</strong>. </p> <p align="center"> <a href="./CPE-Report.pdf" target="_blank" style="text-decoration: none; font-weight: bold;"> 📥 View CPD Certificate (PDF) </a> </p>
 
 
 
