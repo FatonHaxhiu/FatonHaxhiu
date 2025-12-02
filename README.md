@@ -79,10 +79,18 @@
   🏅 Certifications
 </h3>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-top: 20px;">
+
+   <!-- Certification 1 -->
+  <a href="https://www.credly.com/badges/5cc5d378-7dcb-463f-96cc-04e6444a2122" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="120" style="border-radius: 12px;" alt="Certification 1" />
+  </a>
+
+   <!-- Certification 2 -->
   <a href="https://www.credly.com/badges/81c5c6ba-d58a-4a8f-a535-a102c84a3d44" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/e52881de-0a1e-4575-abf9-56c5b8caaad1/blob" width="130" style="border-radius: 12px;" alt="Credly Badge" />
   </a>
+   
 </div>
 
 <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;" />
