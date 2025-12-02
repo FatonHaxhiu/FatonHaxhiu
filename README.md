@@ -81,6 +81,11 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-top: 20px;">
 
+  <!-- Certification 1 -->
+  <a href="https://credentials.engineering.nyu.edu/adcc7ef1-c6b5-42ee-b616-e9333375580f#acc.gkzxplMa" target="_blank">
+    <img src="https://static.wixstatic.com/media/fd9f4b_c761f5287ad2441aa4b3dec34cf1dcce~mv2.png" width="120" style="border-radius: 12px;" alt="Certification 1" />
+  </a>
+  
    <!-- Certification 1 -->
   <a href="https://www.credly.com/badges/5cc5d378-7dcb-463f-96cc-04e6444a2122" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="120" style="border-radius: 12px;" alt="Certification 1" />
