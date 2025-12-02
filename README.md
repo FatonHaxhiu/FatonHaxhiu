@@ -83,7 +83,7 @@
 
   <!-- Certification 1 -->
   <a href="https://credentials.engineering.nyu.edu/adcc7ef1-c6b5-42ee-b616-e9333375580f#acc.gkzxplMa" target="_blank">
-    <img src="https://static.wixstatic.com/media/fd9f4b_c761f5287ad2441aa4b3dec34cf1dcce~mv2.png" width="120" style="border-radius: 12px;" alt="Certification 1" />
+    <img src="https://static.wixstatic.com/media/fd9f4b_e78cdc2218b54fe7943efcc0a61eda2f~mv2.png" width="120" style="border-radius: 12px;" alt="Certification 1" />
   </a>
   
    <!-- Certification 1 -->
