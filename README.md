@@ -90,6 +90,11 @@
   <a href="https://www.credly.com/badges/81c5c6ba-d58a-4a8f-a535-a102c84a3d44" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/e52881de-0a1e-4575-abf9-56c5b8caaad1/blob" width="130" style="border-radius: 12px;" alt="Credly Badge" />
   </a>
+
+  <!-- Certification 3 -->
+  <a href="https://www.credly.com/badges/679b33b8-a3f2-49a8-a830-76c9d3928397/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/cdd31d09-1589-49a9-bc68-40c310fc3060/569776921_John_Jay_Microcredentialling_20_Digital_Badges-06.png" width="120" style="border-radius: 12px;" alt="Certification 3" />
+  </a>
    
 </div>
 
