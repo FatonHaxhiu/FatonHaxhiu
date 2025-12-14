@@ -100,6 +100,11 @@
   <a href="https://www.credly.com/badges/679b33b8-a3f2-49a8-a830-76c9d3928397/linked_in_profile" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/cdd31d09-1589-49a9-bc68-40c310fc3060/569776921_John_Jay_Microcredentialling_20_Digital_Badges-06.png" width="120" style="border-radius: 12px;" alt="Certification 3" />
   </a>
+
+  <!-- Certification 4 -->
+  <a href="https://www.credly.com/earner/earned/badge/b94628fb-3212-42af-a84b-30f89101bd38" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="120" style="border-radius: 12px;" alt="Certification 4" />
+  </a>
    
 </div>
 
