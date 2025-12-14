@@ -107,7 +107,7 @@
   </a>
 
   <!-- Certification 5 -->
-  <a href="https://www.credly.com/earner/earned/badge/dd4620be-0c75-4437-a9cd-3ae933d6bfb2" target="_blank">
+  <a href="https://www.credly.com/badges/dd4620be-0c75-4437-a9cd-3ae933d6bfb2" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/image.png" width="120" style="border-radius: 12px;" alt="Certification 4" />
   </a>
 
